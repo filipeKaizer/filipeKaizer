@@ -1,6 +1,14 @@
 ##  Filipe S. Kaizer
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/filipeKaizer/filipeKaizer?logo=star&style=flat)](https://github.com/filipeKaizer/filipeKaizer/stargazers "stars")
+<a href="https://github.com/filipeKaizer?tab=followers">
+  <img alt="followers" title="Follow me on Github" 
+       src="https://custom-icon-badges.demolab.com/github/followers/filipeKaizer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/filipeKaizer?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" 
+       src="https://custom-icon-badges.demolab.com/github/stars/filipeKaizer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
 **`Desenvolvedor FullStack`**
 
