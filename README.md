@@ -1,5 +1,11 @@
 ##  Filipe S. Kaizer
 
+**`Desenvolvedor FullStack`**
+
+Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou Técnico em Eletrotécnica e Graduado em Redes de Computadores pela Universidade Federal de Santa Maria. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Santa Maria. Sou desenvolvedor `FullStack`, com foco principalmente em aplicações *Mobile*, *Desktop*, *APIs* e *Projetos Embarcados*. 
+
+Desenvolvo Softwares e Sistemas com aplicações em Engenharia Elétrica, principalmente voltados a eletrônica e sistemas de potência. 
+
 <a href="https://github.com/filipeKaizer?tab=followers">
   <img alt="followers" title="Follow me on Github" 
        src="https://custom-icon-badges.demolab.com/github/followers/filipeKaizer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -10,11 +16,6 @@
        src="https://custom-icon-badges.demolab.com/github/stars/filipeKaizer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou Técnico em Eletrotécnica e Graduado em Redes de Computadores pela Universidade Federal de Santa Maria. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Santa Maria. Sou desenvolvedor `FullStack`, com foco principalmente em aplicações *Mobile*, *Desktop*, *APIs* e *Projetos Embarcados*. 
-
-Desenvolvo Softwares e Sistemas com aplicações em Engenharia Elétrica, principalmente voltados a eletrônica e sistemas de potência. 
 
 ---
 
