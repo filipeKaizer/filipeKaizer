@@ -23,7 +23,7 @@ Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=13" 
   />
 </p>
 
