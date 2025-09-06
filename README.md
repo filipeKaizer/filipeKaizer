@@ -4,11 +4,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou formado em Eletrotécnica e Redes de Computadores na Universidade Federal de Santa Maria. Atualmente, estou cursando Sistema de Informação na Universidade Federal de Santa Maria. Sou desenvolvedor `FullStack`, com foco principalmente em aplicações *Mobile*, *Desktop* e de *APIs*.
+Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou Técnico em Eletrotécnica e Graduado em Redes de Computadores pela Universidade Federal de Santa Maria. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Santa Maria. Sou desenvolvedor `FullStack`, com foco principalmente em aplicações *Mobile*, *Desktop*, *APIs* e *Projetos Embarcados*. 
+
+Desenvolvo Softwares e Sistemas com aplicações em Engenharia Elétrica, principalmente voltados a eletrônica e sistemas de potência. 
 
 ---
 
-### 🤖 Linguagens
+### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -18,7 +20,14 @@ Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou
 <img align="left" alt="Shell Script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Tensor Flow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="SCIKIT Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 
 <br />
 
@@ -32,19 +41,8 @@ Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou
 <img align="left" alt="Replit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg"/>
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"/>
 
-<br />
 
----
-
-### ⚙️ Tecnologias 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Tensor Flow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="SCIKIT Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-
-
-<br />
+<br /> 
 
 ---
 
@@ -63,7 +61,7 @@ Me chamo Filipe S. Kaizer, tenho 23 anos e sou natural do Rio Grande do Sul. Sou
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&themecity_lights&layout=compact&custom_title=Tecnologias&langs_count=12" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&theme=city_lights&layout=compact&custom_title=Tecnologias&langs_count=12" 
   />
 </p>
 
