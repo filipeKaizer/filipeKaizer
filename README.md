@@ -87,7 +87,7 @@ Desenvolvo Softwares e Sistemas com aplicações em Engenharia Elétrica, princi
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&theme=city_lights&layout=compact&custom_title=Tecnologias&langs_count=12" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeKaizer&theme=city_lights&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
 
